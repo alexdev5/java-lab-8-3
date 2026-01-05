@@ -8,7 +8,6 @@
 
 ## Виконання ```Main.java```
 ```
-=== Zoo state ===
 testdata\a.txt -> 52
 testdata\b.txt -> 35
 testdata\sub\sub-c.txt -> 24
